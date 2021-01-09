@@ -20,3 +20,8 @@ Once I have a complete database, I did the following:
 6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+## Bonus
+In this part I was able to import the SQL database into Pandas and:
+  1. Create a histogram to visualize the most common salary ranges for employees.
+  2. Create a bar chart of average salary by title.
