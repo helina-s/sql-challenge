@@ -1,17 +1,17 @@
 # sql-challenge
 
-#### Data Modeling
+In this challenge, I was able to utilize my SQL skills to design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, I performed: data engineering and data analysis.
 
-In this challenge, I was able to utilize my SQL skill to inspect the CSVs and sketch out an ERD of the tables.
+#### Data Modeling
+I used my SQL skills to inspect the CSVs and sketch out an ERD of the tables.
 
 #### Data Engineering
-
-* Use the information you have to create a table schema for each of the six CSV files (specify data types, primary keys, foreign keys, and other constraints).
-* Import each CSV file into the corresponding SQL table.
+* Used the information I have to create a table schema for each of the six CSV files (specify data types, primary keys, foreign keys, and other constraints).
+* Imported each CSV file into the corresponding SQL table.
 
 #### Data Analysis
 
-Once you have a complete database, do the following:
+Once I have a complete database, I did the following:
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 2. List first name, last name, and hire date for employees who were hired in 1986.
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
